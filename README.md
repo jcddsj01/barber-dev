@@ -20,7 +20,7 @@ Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](htt
 
 It's a website for a fictional barbershop, providing details of the services offered, an attractive photo gallery and the ability for visitors to book appointments. In essence, the purpose of the site is to promote the barbershop, highlighting its services and simplifying the process of contacting clients.
 
-Tecnologias Utilizadas:
+Technologies used:
 * [HTML (HyperText Markup Language):](https://www.w3schools.com/html/html_intro.asp) Used to structure and define page content, including headings, paragraphs, lists and images.
 * [CSS (Cascading Style Sheets):](https://www.w3schools.com/css/css_intro.asp) Used to style the elements of the page, defining colors, sizes, fonts and layout, providing a visually appealing appearance.
 * [SASS:](https://sass-lang.com/) It is a CSS preprocessor that provides significant improvements in code writing. It allows the use of variables, nesting, mixins and functions, resulting in cleaner, more efficient and reusable code.
