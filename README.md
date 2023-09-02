@@ -1,6 +1,6 @@
 ## Projeto - Dev Barber - Sua Barbearia! <br> Criado com base do Canal no YouTube | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
 
-O site desenvolve uma página dedicada a um salão de barbearia fictício, fornecendo detalhes sobre os serviços oferecidos, uma galeria de fotos atrativa e a capacidade para os visitantes agendarem horários. Em essência, a finalidade do site é promover o salão de barbearia, destacando seus serviços e simplificando o processo de contato com os clientes.
+É um site para salão de barbearia fictício, fornecendo detalhes sobre os serviços oferecidos, uma galeria de fotos atrativa e a capacidade para os visitantes agendarem horários. Em essência, a finalidade do site é promover o salão de barbearia, destacando seus serviços e simplificando o processo de contato com os clientes.
 
 Tecnologias Utilizadas:
 * [HTML (Linguagem de marcação):](https://www.w3schools.com/html/html_intro.asp) Utilizado para estruturar e definir o conteúdo da página, incluindo cabeçalhos, parágrafos, listas e imagens.
@@ -18,7 +18,7 @@ Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](htt
 
 ## Project - Dev Barber - Your Barber Shop! <br> Created on the basis of the YouTube channel  | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
 
-The website develops a page dedicated to a fictional barbershop, providing details of the services offered, an attractive photo gallery and the ability for visitors to book appointments. In essence, the purpose of the site is to promote the barbershop, highlighting its services and simplifying the process of contacting clients.
+It's a website for a fictional barbershop, providing details of the services offered, an attractive photo gallery and the ability for visitors to book appointments. In essence, the purpose of the site is to promote the barbershop, highlighting its services and simplifying the process of contacting clients.
 
 Tecnologias Utilizadas:
 * [HTML (HyperText Markup Language):](https://www.w3schools.com/html/html_intro.asp) Used to structure and define page content, including headings, paragraphs, lists and images.
