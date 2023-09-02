@@ -10,6 +10,7 @@ Tecnologias Utilizadas:
 * [Google Fonts:](https://fonts.google.com/) Utilizado para acessar e aplicar fontes personalizadas aos textos da página, melhorando a estilização e a legibilidade.
 * [Font Awesome:](https://fontawesome.com/) É uma biblioteca que oferece uma ampla variedade de ícones personalizados prontos para serem utilizados em sites e aplicativos.
 * [AOS:](https://michalsnik.github.io/aos/) É uma biblioteca JavaScript utilizada para criar animações em elementos HTML à medida que eles se tornam visíveis na tela durante a rolagem da página.
+* [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 * [Vercel:](https://vercel.com/) É uma plataforma que oferece hospedagem para sites estáticos, implantação para aplicativos web, suporte a funções serverless, integração contínua e compatibilidade com uma ampla variedade de ferramentas de desenvolvimento.
 
 Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](https://barber-dev-jcddsj01.vercel.app/)
@@ -28,6 +29,7 @@ Technologies used:
 * [Google Fonts:](https://fonts.google.com/) Used to access and apply custom fonts to page texts, improving stylization and readability.
 * [Font Awesome:](https://fontawesome.com/) It's a library that offers a wide variety of customized icons ready to be used on websites and applications.
 * [AOS:](https://michalsnik.github.io/aos/) It's a JavaScript library used to create animations on HTML elements as they become visible on the screen while scrolling.
+* [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
 * [Vercel:](https://vercel.com/) It is a platform that offers hosting for static sites, deployment for web applications, support for serverless functions, continuous integration and compatibility with a wide variety of development tools.
 
 Project deployment on GitHub Pages: [Explore the project by clicking here.](https://barber-dev-jcddsj01.vercel.app/)
