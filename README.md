@@ -13,7 +13,7 @@ Tecnologias Utilizadas:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 * [Vercel:](https://vercel.com/) É uma plataforma que oferece hospedagem para sites estáticos, implantação para aplicativos web, suporte a funções serverless, integração contínua e compatibilidade com uma ampla variedade de ferramentas de desenvolvimento.
 
-Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](https://barber-dev-jcddsj01.vercel.app/)
+Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.](https://barber-dev-jcddsj01.vercel.app/)
 
 ---
 
@@ -32,4 +32,4 @@ Technologies used:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
 * [Vercel:](https://vercel.com/) It is a platform that offers hosting for static sites, deployment for web applications, support for serverless functions, continuous integration and compatibility with a wide variety of development tools.
 
-Project deployment on GitHub Pages: [Explore the project by clicking here.](https://barber-dev-jcddsj01.vercel.app/)
+Project deployment on Vercel: [Explore the project by clicking here.](https://barber-dev-jcddsj01.vercel.app/)
