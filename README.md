@@ -1,4 +1,12 @@
-## Projeto - Dev Barber - Sua Barbearia! <br> Criado com base do Canal no YouTube | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
+<h1 align="center">
+  Dev Barber - Sua Barbearia!
+</h1>
+
+<div align="center">
+  <img src="assets/barber-dev.png" width="100%" />
+</div>
+
+## Projeto - Dev Barber - Sua Barbearia! 
 
 É um site para salão de barbearia fictício, fornecendo detalhes sobre os serviços oferecidos, uma galeria de fotos atrativa e a capacidade para os visitantes agendarem horários. Em essência, a finalidade do site é promover o salão de barbearia, destacando seus serviços e simplificando o processo de contato com os clientes.
 
@@ -13,11 +21,14 @@ Tecnologias Utilizadas:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 * [Vercel:](https://vercel.com/) É uma plataforma que oferece hospedagem para sites estáticos, implantação para aplicativos web, suporte a funções serverless, integração contínua e compatibilidade com uma ampla variedade de ferramentas de desenvolvimento.
 
+Créditos:
+* Criado com base do Canal no YouTube | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
+
 Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.](https://barber-dev-jcddsj01.vercel.app/)
 
 ---
 
-## Project - Dev Barber - Your Barber Shop! <br> Created on the basis of the YouTube channel  | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
+## Project - Dev Barber - Your Barber Shop! 
 
 It's a website for a fictional barbershop, providing details of the services offered, an attractive photo gallery and the ability for visitors to book appointments. In essence, the purpose of the site is to promote the barbershop, highlighting its services and simplifying the process of contacting clients.
 
@@ -31,5 +42,8 @@ Technologies used:
 * [AOS:](https://michalsnik.github.io/aos/) It's a JavaScript library used to create animations on HTML elements as they become visible on the screen while scrolling.
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
 * [Vercel:](https://vercel.com/) It is a platform that offers hosting for static sites, deployment for web applications, support for serverless functions, continuous integration and compatibility with a wide variety of development tools.
+
+Credits:
+* Created on the basis of the YouTube channel | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
 
 Project deployment on Vercel: [Explore the project by clicking here.](https://barber-dev-jcddsj01.vercel.app/)
